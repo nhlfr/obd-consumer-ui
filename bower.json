@@ -1,0 +1,15 @@
+{
+    "name": "obd-consumer-ui",
+    "version": "0.1.0",
+    "description": "Web UI for OBD system consuming daemon",
+    "dependencies": {
+        "requirejs": "~2.1.20",
+        "requirejs-domready": "~2.0.1",
+        "angular": "~1.4.4",
+        "angular-route": "~1.4.4",
+        "angular-bootstrap": "~0.13.3",
+        "bootstrap": "~3.3.5",
+        "angular-google-maps": "~2.1.5"
+    },
+    "license": "Apache Software License v2.0"
+}

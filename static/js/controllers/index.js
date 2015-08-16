@@ -1,0 +1,4 @@
+define([
+    "./overview",
+    "./map"
+], function () {});
